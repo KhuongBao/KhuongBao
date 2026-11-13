@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bao (Bill) 👋
 
-<!--
-**KhuongBao/KhuongBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ University of South Florida  
+🔬 Undergraduate Researcher | AI & Machine Learning  
+🎯 Interested in LLMs, Reinforcement Learning, AI Reasoning, and Alignment
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Senior Computer Science undergraduate at USF,
+passionate about Artificial Intelligence and Machine Learning
+
+My interests lie in Large Language Models, Reinforcement Learning, AI Reasoning, and Alignment. 
+I enjoy exploring how intelligent systems work, implementing models from scratch, 
+and experimenting with new approaches to improve their capabilities and reliability.
+
+## Research Interests
+
+- Large Language Models & Reasoning
+- Reinforcement Learning & LLM Alignment
+- AI Safety & Reliability
+- Natural Language Processing
+- Machine Learning Systems
+
+## Tech Stack
+
+**Languages:** Python, C, C++, SQL, Java
+
+**ML & AI:** PyTorch, TensorFlow, Hugging Face, Scikit-learn
+
+**Tools:** Git, Linux, Docker, Jupyter
