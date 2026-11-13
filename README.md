@@ -21,6 +21,10 @@ AI Reasoning & Alignment**
 🚀 Exploring ways to make AI systems more capable,
 reliable, and safe.
 
+🎓 **Seeking PhD opportunities for Fall 2027** in Computer Science,
+with a focus on Large Language Models, Reinforcement Learning,
+AI Reasoning, and Alignment.
+
 ---
 
 ## 🛠️ Tech Stack
